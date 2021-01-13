@@ -31,7 +31,7 @@ This value equals ~2lb of tension on XY, which is on the lower end of the range 
 1. Elongate your z idlers as much as possible by releasing the pressure from the two M5 bolts and screwing out the m3 bolt as far as possible without the idler falling apart. Make sure the z tensioner part is able to move freely. Screw the M3 bolts back in one or two turns so the bolts have something to grab on.
 2. Pre-tension the belts by hand and fix the belts again.
 3. Striking the belt part between z idler and the front idlers (or AB modules for rear belts), screw in the M3 bolts until the lowest frequency in your frequency plot (see AB Belts section for details) is approximately 140 Hz.
-4. Tighten the two M5 bolts again and release the pressure from the m3 bolt.you
+4. Tighten the two M5 bolts again and release the pressure from the m3 bolt.
 
 
 ## Bed Mesh
