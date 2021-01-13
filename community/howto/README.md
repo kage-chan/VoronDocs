@@ -1,4 +1,4 @@
-# How-To's
+# How-Tos
 
 Community-generated documentation for the many items that the official guide may not cover.
 
@@ -6,6 +6,7 @@ Community-generated documentation for the many items that the official guide may
 |---|---|
 | [Calculating Driver Current Settings](./120decibell/calculating_driver_current.md) | 120decibell |
 | [Chamber Temperature Exhaust Fan](./alchemyEngine/chamber_temperature_exhaust_fan.md) | alchemyEngine |
+| [Installing BetterBootLoader on a SKR](./kage-chan/installing_better_bootloader.md) | kage-chan |
 | [Z Endstop Configuration](./120decibell/z_endstop_configuration.md) | 120decibell |
 
 
