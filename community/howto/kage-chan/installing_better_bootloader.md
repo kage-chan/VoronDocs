@@ -46,7 +46,7 @@ make menuconfig
 ```
 
 Enable USB communication (see image below) and Exit the configuration dialog.
-![Klipper's menuconfig dialog with USB communication enabled](./MakeMenuconfig.png)
+![Klipper's menuconfig dialog with USB communication enabled](./images/MakeMenuconfig.png)
 
 6. After updating and reconfiguring your local repository remove any existing binaries or compiled object files and recompile Klipper:
 
