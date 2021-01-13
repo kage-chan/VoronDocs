@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Calculating Driver Current Settings
+title: Installing BetterBootLoader on a SKR board
 nav_exclude: true
 ---
 
@@ -8,7 +8,7 @@ nav_exclude: true
 
 First and foremost, I would like to thank Arksine for this great tool. When I installed BetterBootLoader I thought it was a lot more complicated, partly because I was unable to find any detailed installation instructions, especially on how to flash Klipper through USB. So I have decided to write this very short step-by-step installation instructions, in the hope it might help somebody installing this excellent tool in the future.
 
-**A word of warning:** This potentially can brick (soft-brick) your SKRs if something goes wrong. If you have the propper programming tool, you might be able to reflash the original firmware back to the SKRs, but most of us won't have these. Be careful!
+**A word of warning:** This potentially can brick (soft-brick) your SKRs if something goes wrong. If you have the propper programming tool, you might be able to reflash the original firmware back to the SKRs, but most people won't have these. Be careful!
 
 BetterBootLoader is a replacement to the stock firmware of the SKR or, for that matter, any LPC17xx-Board. The most important difference to the original firmware is that it allows installing Klipper on the SKR from the Pi through the USB connection without physical access to the SKR's SD card.
 
